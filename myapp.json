@@ -1,16 +1,20 @@
 {
 	"collection": [
 		{
-			"title": "サンプルのタスク"
+			"title": "サンプルのタスク",
+			"chk": false
 		},
 		{
-			"title": "あいうえお"
+			"title": "あいうえお",
+			"chk": true
 		},
 		{
-			"title": "かきくけこ"
+			"title": "かきくけこ",
+			"chk": true
 		},
 		{
-			"title": "さしすせそ"
+			"title": "さしすせそ",
+			"chk": false
 		}
 	]
 }
