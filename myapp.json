@@ -45,6 +45,10 @@
 		{
 			"image": "https://cdn.rawgit.com/sagayama/sampledata/8f7555881fd19cf49862e19f04c8fdb567a149bb/images/002.jpg",
 			"name": "海"
+		},
+		{
+			"image": "https://cdn.rawgit.com/sagayama/sampledata/17c4ae4a3b302a5990fc303363472ee4ea915959/images/006.jpg",
+			"name": "富士山"
 		}
 	]
 }
