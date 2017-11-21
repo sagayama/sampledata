@@ -40,5 +40,11 @@
 			"chk": false,
 			"title": "10"
 		}
+	],
+	"painting": [
+		{
+			"image": "https://cdn.rawgit.com/sagayama/sampledata/8f7555881fd19cf49862e19f04c8fdb567a149bb/images/002.jpg",
+			"name": "海"
+		}
 	]
 }
